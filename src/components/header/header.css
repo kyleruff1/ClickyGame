@@ -1,0 +1,20 @@
+.bg {
+  background: black;
+  background-image: cross-fade();
+  background-size: .618rem .618rem;
+  font-family: 'Metal Mania', cursive;
+
+}
+
+.logo {
+  font-family: 'Metal Mania', cursive;
+  background: -webkit-linear-gradient(#fcb559, #fc5300);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 82px;
+}
+
+.desc {
+  color: white;
+  font-family: 'Metal Mania', cursive;
+}

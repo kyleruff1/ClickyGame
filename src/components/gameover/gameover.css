@@ -1,0 +1,18 @@
+.gameover {
+  color: white;
+  font-size: 125px;
+  margin-top: 10%;
+  font-family: 'Metal Mania', cursive;
+}
+
+.winner {
+  background: url('../../winner.jpg');
+  min-height: 100%;
+  height: 611px;
+  font-family: 'Metal Mania', cursive;
+}
+
+.new-game {
+  margin-top: 35%;
+  font-family: 'Metal Mania', cursive;
+}
