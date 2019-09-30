@@ -5,7 +5,7 @@ const Header = () => (
   <div className="container">
     <div className="jumbotron bg text-center">
       <h1 className="logo">Click-Out!!</h1>
-      <p className="desc">Click on a death metal band logo to earn points, if you click the same band twice and lose!</p>
+      <p className="desc">Click on a death metal band logo to earn points. if you click the same band twice... you're gonna lose!</p>
     </div>
   </div>
 );
